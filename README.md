@@ -23,7 +23,7 @@ For subject-verb agreement (not included yet in the code), Recurrent Neural Netw
 
 Usage:
 
-```python
+```
 Enter some text: It is a awsome weekand. Sitting at the window, I can see abird chirping.
 
 PERFORMING SPELL CHECK...
